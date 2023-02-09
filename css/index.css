@@ -1,0 +1,78 @@
+* {
+  background-color: rgb(224, 224, 224);
+  font-family: "Courier New", Courier, monospace;
+  font-size: large;
+  color: rgb(69, 69, 69);
+}
+
+html,
+body {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+h1 {
+  font-size: xx-large;
+  margin-right: 150px;
+}
+
+.header {
+  width: 100%;
+}
+
+#firstline {
+  font-size: x-large;
+}
+
+.navig ol {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  color: rgb(69, 69, 69);
+}
+
+.header table {
+  width: 100%;
+}
+
+.navig li {
+  margin-top: 10px;
+  margin-right: 30px;
+}
+
+.about ul {
+  list-style: none;
+  padding: 0;
+}
+
+.about #facts {
+  margin-top: 50px;
+}
+
+.photo {
+  opacity: 70%;
+  display: flex;
+  border-bottom: solid 1px;
+  padding-top: 30px;
+  justify-content: center;
+}
+
+h2 {
+  font-size: x-large;
+  padding-top: 50px;
+}
+
+a {
+  color: rgb(26, 151, 110);
+  text-decoration: none;
+}
+
+.footer p {
+  text-align: center;
+  font-size: small;
+}
+
+table tr td div {
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
